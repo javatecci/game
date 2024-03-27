@@ -1,23 +1,4 @@
 {
-  "cli": {
-    "version": ">= 7.6.1"
-  },
-  "build": {
-    "development": {
-      "developmentClient": true,
-      "distribution": "internal"
-    },
-    "preview": {
-      "distribution": "internal"
-    },
-    "production": {}
-  },
-  "submit": {
-    "production": {}
-  }
-
-
-{
   "build": {
     "production": {
       "env": {
@@ -30,6 +11,4 @@
       }
     }
   }
-}
-
 }
