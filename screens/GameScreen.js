@@ -70,7 +70,7 @@ function GameScreen({ userNumber, onGameOver }) {
   return (
     <View style={styles.screen}>
       <Title>Opponent's Guess</Title>
-      <Title>Contact : 8910425824 If you need to develop any app or website</Title>
+      <Title>Contact : 00918910425824 If you need to develop any app or website</Title>
 
       <NumberContainer>{currentGuess}</NumberContainer>
       <Card>

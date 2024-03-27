@@ -8,7 +8,7 @@ function GameOverScreen({ roundsNumber, userNumber, onStartNewGame }) {
   return (
     <View style={styles.rootContainer}>
       <Title>GAME OVER!</Title>
-      <Title>Contact : 8910425824 If you need to develop any app or website</Title>
+      <Title>Contact : 00918910425824 If you need to develop any app or website</Title>
 
       <View style={styles.imageContainer}>
         <Image
