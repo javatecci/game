@@ -35,6 +35,8 @@ function StartGameScreen({ onPickNumber }) {
 
   return (
     <View style={styles.rootContainer}>
+     <Title>Developed by Jayanta</Title>
+     <Title>Contact : 8910425824 If you need to develop any app or website</Title>
       <Title>Guess My Number</Title>
       <Card>
         <InstructionText>
